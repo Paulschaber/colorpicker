@@ -14,6 +14,7 @@ html{
     width: 30vw; /* Full-width */
     height: 2vw; /* Specified height */
     background: linear-gradient(to right, black, white); /* Grey background */
+    border-radius: 0.2vw;
 }
 
 .slider::-moz-range-thumb {
